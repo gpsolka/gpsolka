@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- [Fundamentals of Computing: Final Project](https://github.com/glpsolka/PROJECTURL)
-- [Database Design Final Project](https://github.com/glpsolka/PROJECTURL)
+- [Fundamentals of Computing: Final Project](https://github.com/gpsolka/FundamentalsOfComputingFinalProject)
+- [Database Design Final Project](https://github.com/gpsolka/DatabaseDesignFinalProject)
 
 <h2>📄 Certifications:</h2>
 
